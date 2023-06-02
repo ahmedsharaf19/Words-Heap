@@ -10,7 +10,7 @@ This project is an applied project on what we have learned in the Java language,
 We work in JDk 20 to run our project you should install that JDK
 
 
-## Authors
+## Team
 
 - [@Ahmed Sharaf](https://www.linkedin.com/in/ahmedsharaf9/)
 - [@Ahmed Almohamdy](https://www.linkedin.com/in/ahmed-almohamdy-16723524a)
@@ -24,7 +24,7 @@ We work in JDk 20 to run our project you should install that JDK
 
 ## Used By
 
-This project is used by the following companies:
+This project is used by the following:
 
 - Java
 - OOP
